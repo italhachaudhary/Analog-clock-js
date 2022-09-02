@@ -1,7 +1,7 @@
-A simple JS project of creating
+###A simple JS project of creating
 Analog Clock using Html, CSS, JavaScript 
 <br>
-<h1>Explaination:</h1>
+<h1>Calculation:</h1>
 <h2>Hour</h2>
 H => 12H = 360 degrees<br>
 1H = 360/12 = 30 <br>
